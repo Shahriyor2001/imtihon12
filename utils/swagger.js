@@ -7,11 +7,11 @@ const options = {
     info: {
       title: 'Blog API',
       version: '1.0.0',
-      description: 'Shahriyorning swaggerdokumenti ushbu proyekt uchun',
+      description: 'Shahriyorning  ushbu proyekt uchun swagger dokumentatsiyasi',
     },
     servers: [
       {
-        url: 'https://localhost:4001/api',
+        url: 'https://185.217.131.195:4001/api',
       },
     ],
 		tags: [
